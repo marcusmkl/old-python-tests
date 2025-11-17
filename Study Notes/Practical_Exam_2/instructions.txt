@@ -1,0 +1,13 @@
+# INSTRUCTIONS
+
+1. Open the Windows File Explorer or MAC Finder.
+2. Navigate to where you placed the extracted files from Practical_Exam2.zip
+3. Open a command prompt or a terminal. Make sure your current directory is set to where the extracted files are located.
+4. If you have not yet installed bcrypt package, do this in your terminal: pip install -r requirements.txt
+5. Run the program: python practical_exam_2.py
+6. You should see the program run on the opened command prompt or terminal.
+7. DO NOT ATTEMPT TO MODIFY practical_exam.py. Doing so will forfeit your exam.
+8. For any issues, reach out to your proctor.
+
+
+========= GOOD LUCK! =========
